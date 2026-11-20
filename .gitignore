@@ -1,0 +1,8 @@
+node_modules/
+.wrangler/
+.dev.vars
+demos/2-stateless/db.json
+
+# Talk decks and PowerPoint lock files stay out of the repo
+*.pptx
+~$*
